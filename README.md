@@ -625,4 +625,3 @@ Contributions welcome! Please:
 *"Where Innovation Meets Reality"*
 =======
 # UI-UX-project
->>>>>>> 22ca97f7e54fd90f7861bd907803da266c6972c4
